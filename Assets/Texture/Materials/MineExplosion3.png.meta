@@ -1,0 +1,1765 @@
+fileFormatVersion: 2
+guid: 48d29288b7f185748be987c200dfc853
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7794768564363709240
+    second: MineExplosion3_0
+  - first:
+      213: -80779678059160779
+    second: MineExplosion3_1
+  - first:
+      213: -8802687179410794430
+    second: MineExplosion3_2
+  - first:
+      213: 8255274376052352823
+    second: MineExplosion3_3
+  - first:
+      213: 7255074319818705434
+    second: MineExplosion3_4
+  - first:
+      213: 5628625344725579436
+    second: MineExplosion3_5
+  - first:
+      213: 5077979570144006524
+    second: MineExplosion3_6
+  - first:
+      213: -7403045199218553496
+    second: MineExplosion3_7
+  - first:
+      213: 4578594131949860975
+    second: MineExplosion3_8
+  - first:
+      213: -3568686469562935306
+    second: MineExplosion3_9
+  - first:
+      213: 5606215387829552534
+    second: MineExplosion3_10
+  - first:
+      213: 6648963524826107146
+    second: MineExplosion3_11
+  - first:
+      213: -1046398203792422772
+    second: MineExplosion3_12
+  - first:
+      213: -5476898447548955067
+    second: MineExplosion3_13
+  - first:
+      213: 8657722239372606491
+    second: MineExplosion3_14
+  - first:
+      213: 6245192875204140129
+    second: MineExplosion3_15
+  - first:
+      213: 4205798565718523246
+    second: MineExplosion3_16
+  - first:
+      213: -7115113997383182397
+    second: MineExplosion3_17
+  - first:
+      213: 3139884568963093136
+    second: MineExplosion3_18
+  - first:
+      213: 7480837652191448029
+    second: MineExplosion3_19
+  - first:
+      213: -831395941367160375
+    second: MineExplosion3_20
+  - first:
+      213: -4369540627697485120
+    second: MineExplosion3_21
+  - first:
+      213: 4959212366800077742
+    second: MineExplosion3_22
+  - first:
+      213: -1141266446913545359
+    second: MineExplosion3_23
+  - first:
+      213: 6827221789469748900
+    second: MineExplosion3_24
+  - first:
+      213: -5187747920540825657
+    second: MineExplosion3_25
+  - first:
+      213: -6117416887227422706
+    second: MineExplosion3_26
+  - first:
+      213: -7007508798159803570
+    second: MineExplosion3_27
+  - first:
+      213: -9114944792281949560
+    second: MineExplosion3_28
+  - first:
+      213: -6512108377531153043
+    second: MineExplosion3_29
+  - first:
+      213: 4152309485756265632
+    second: MineExplosion3_30
+  - first:
+      213: -7655848170139687453
+    second: MineExplosion3_31
+  - first:
+      213: 5796283342906400036
+    second: MineExplosion3_32
+  - first:
+      213: 5855225274689270382
+    second: MineExplosion3_33
+  - first:
+      213: -7102891299217171357
+    second: MineExplosion3_34
+  - first:
+      213: 9159217432786938597
+    second: MineExplosion3_35
+  - first:
+      213: -7343213897516559786
+    second: MineExplosion3_36
+  - first:
+      213: 666600415931767778
+    second: MineExplosion3_37
+  - first:
+      213: 2387041234401258040
+    second: MineExplosion3_38
+  - first:
+      213: -1704121051636821848
+    second: MineExplosion3_39
+  - first:
+      213: 1390339791881839851
+    second: MineExplosion3_40
+  - first:
+      213: 2290226266752050179
+    second: MineExplosion3_41
+  - first:
+      213: -2776131403178865883
+    second: MineExplosion3_42
+  - first:
+      213: -8736203282641678867
+    second: MineExplosion3_43
+  - first:
+      213: -945285667203916866
+    second: MineExplosion3_44
+  - first:
+      213: 8156419946626682527
+    second: MineExplosion3_45
+  - first:
+      213: 6504311917134462688
+    second: MineExplosion3_46
+  - first:
+      213: 9117667985822924373
+    second: MineExplosion3_47
+  - first:
+      213: -8828884514959589302
+    second: MineExplosion3_48
+  - first:
+      213: 8328917902581675848
+    second: MineExplosion3_49
+  - first:
+      213: -7246458150479274316
+    second: MineExplosion3_50
+  - first:
+      213: -6148451317585651794
+    second: MineExplosion3_51
+  - first:
+      213: -6300931778496154584
+    second: MineExplosion3_52
+  - first:
+      213: 5432079803857033405
+    second: MineExplosion3_53
+  - first:
+      213: 9197449077125856556
+    second: MineExplosion3_54
+  - first:
+      213: -7535664856036254836
+    second: MineExplosion3_55
+  - first:
+      213: 858060828601183542
+    second: MineExplosion3_56
+  - first:
+      213: 6473333195415794620
+    second: MineExplosion3_57
+  - first:
+      213: -8732992361892134108
+    second: MineExplosion3_58
+  - first:
+      213: 477344597234908076
+    second: MineExplosion3_59
+  - first:
+      213: 4879345257611924919
+    second: MineExplosion3_60
+  - first:
+      213: 7528602084843898465
+    second: MineExplosion3_61
+  - first:
+      213: 2462120181557084570
+    second: MineExplosion3_62
+  - first:
+      213: -7947550434035519893
+    second: MineExplosion3_63
+  - first:
+      213: 776584112043923413
+    second: MineExplosion3_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MineExplosion3_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3909
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bc749f5b49c2c60800000000000000
+      internalID: 7794768564363709240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_1
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 3903
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b96309f4301eef0800000000000000
+      internalID: -80779678059160779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_2
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 3896
+        width: 110
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248955226a296d580800000000000000
+      internalID: -8802687179410794430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_3
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 3888
+        width: 140
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7372cf38e40a09270800000000000000
+      internalID: 8255274376052352823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_4
+      rect:
+        serializedVersion: 2
+        x: 3282
+        y: 3887
+        width: 162
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a4ad3a7a33fa460800000000000000
+      internalID: 7255074319818705434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3567
+        width: 189
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6f026ede4ec1e40800000000000000
+      internalID: 5628625344725579436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_6
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 3563
+        width: 217
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71df17c38b987640800000000000000
+      internalID: 5077979570144006524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_7
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 3557
+        width: 247
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86dca644d99134990800000000000000
+      internalID: -7403045199218553496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_8
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 3552
+        width: 275
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f683f85ca1f6a8f30800000000000000
+      internalID: 4578594131949860975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_9
+      rect:
+        serializedVersion: 2
+        x: 3288
+        y: 3544
+        width: 307
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f755fa409a797ec0800000000000000
+      internalID: -3568686469562935306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3225
+        width: 343
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695c8e531374dcd40800000000000000
+      internalID: 5606215387829552534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_11
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 3220
+        width: 368
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d0acd191dd54c50800000000000000
+      internalID: 6648963524826107146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_12
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 3219
+        width: 389
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c888851b0627a71f0800000000000000
+      internalID: -1046398203792422772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_13
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 3213
+        width: 392
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546c4fa31e52ef3b0800000000000000
+      internalID: -5476898447548955067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_14
+      rect:
+        serializedVersion: 2
+        x: 3288
+        y: 3210
+        width: 401
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1cbdc19188662870800000000000000
+      internalID: 8657722239372606491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2895
+        width: 404
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cd750e4d16ba650800000000000000
+      internalID: 6245192875204140129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_16
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 2895
+        width: 415
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6dff72238ffd5a30800000000000000
+      internalID: 4205798565718523246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_17
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 2895
+        width: 417
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7d0915489024d90800000000000000
+      internalID: -7115113997383182397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_18
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 2892
+        width: 425
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09296c0316c139b20800000000000000
+      internalID: 3139884568963093136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_19
+      rect:
+        serializedVersion: 2
+        x: 3295
+        y: 2889
+        width: 428
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb0d31a53641d760800000000000000
+      internalID: 7480837652191448029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2572
+        width: 440
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1eb17dbc94674f0800000000000000
+      internalID: -831395941367160375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_21
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 2570
+        width: 446
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca347e23f54c53c0800000000000000
+      internalID: -4369540627697485120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_22
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 2571
+        width: 448
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3c7d06f59a2d440800000000000000
+      internalID: 4959212366800077742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_23
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 2567
+        width: 457
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b55a596386920f0800000000000000
+      internalID: -1141266446913545359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_24
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 2569
+        width: 457
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aea62c9b0a2fbe50800000000000000
+      internalID: 6827221789469748900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2251
+        width: 465
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c784eb80ca6108b0800000000000000
+      internalID: -5187747920540825657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_26
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 2249
+        width: 465
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0865d5a0c19a1ba0800000000000000
+      internalID: -6117416887227422706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_27
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 2248
+        width: 473
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ba24d10e350ce90800000000000000
+      internalID: -7007508798159803570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_28
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 2247
+        width: 481
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88adcb42106318180800000000000000
+      internalID: -9114944792281949560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_29
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 2240
+        width: 488
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65096aeee750a5a0800000000000000
+      internalID: -6512108377531153043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_30
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1929
+        width: 487
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4bcf73a77ff9930800000000000000
+      internalID: 4152309485756265632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_31
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1929
+        width: 496
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5ef74d6a6f0c590800000000000000
+      internalID: -7655848170139687453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_32
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1927
+        width: 495
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d13778df8807050800000000000000
+      internalID: 5796283342906400036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_33
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 1927
+        width: 504
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e623eb17d50f14150800000000000000
+      internalID: 5855225274689270382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_34
+      rect:
+        serializedVersion: 2
+        x: 3304
+        y: 1925
+        width: 504
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c92fffef57d6d90800000000000000
+      internalID: -7102891299217171357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_35
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1608
+        width: 504
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eaa4dd3ab31c1f70800000000000000
+      internalID: 9159217432786938597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_36
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1607
+        width: 513
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65250d0cdd9a71a90800000000000000
+      internalID: -7343213897516559786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_37
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 1607
+        width: 513
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb9db6eb8d304900800000000000000
+      internalID: 666600415931767778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_38
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 1605
+        width: 523
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a62b80b59702120800000000000000
+      internalID: 2387041234401258040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_39
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 1604
+        width: 524
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a01ceeaeeeb958e0800000000000000
+      internalID: -1704121051636821848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1289
+        width: 532
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be42534acaa7b4310800000000000000
+      internalID: 1390339791881839851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_41
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1287
+        width: 532
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304660dc7a488cf10800000000000000
+      internalID: 2290226266752050179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_42
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 1287
+        width: 544
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b87b782333979d0800000000000000
+      internalID: -2776131403178865883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_43
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 1287
+        width: 544
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded8a8c9665c2c680800000000000000
+      internalID: -8736203282641678867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_44
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 1285
+        width: 549
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbda0ba1bba1e2f0800000000000000
+      internalID: -945285667203916866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_45
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 968
+        width: 548
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e08951abc613170800000000000000
+      internalID: 8156419946626682527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_46
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 969
+        width: 548
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eeb3213a35f34a50800000000000000
+      internalID: 6504311917134462688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_47
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 967
+        width: 560
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e3de2c9b6788e70800000000000000
+      internalID: 9117667985822924373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_48
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 968
+        width: 566
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4003e2af40897580800000000000000
+      internalID: -8828884514959589302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_49
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 967
+        width: 563
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847b5c234b2469370800000000000000
+      internalID: 8328917902581675848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_50
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 650
+        width: 568
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bed2fc94b86f6b90800000000000000
+      internalID: -7246458150479274316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_51
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 650
+        width: 568
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea756804a105caaa0800000000000000
+      internalID: -6148451317585651794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_52
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 649
+        width: 571
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82434c46ee79e88a0800000000000000
+      internalID: -6300931778496154584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_53
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 648
+        width: 576
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8d87c1dcf926b40800000000000000
+      internalID: 5432079803857033405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_54
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 647
+        width: 577
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2db4d99437e3af70800000000000000
+      internalID: 9197449077125856556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_55
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 331
+        width: 585
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b50953db0fb6790800000000000000
+      internalID: -7535664856036254836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_56
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 328
+        width: 585
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d637407c178eb00800000000000000
+      internalID: 858060828601183542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_57
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 330
+        width: 585
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3b0897e36e5d950800000000000000
+      internalID: 6473333195415794620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_58
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 328
+        width: 585
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423483b57bd2ec680800000000000000
+      internalID: -8732992361892134108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_59
+      rect:
+        serializedVersion: 2
+        x: 3336
+        y: 327
+        width: 592
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab73a1d16edf9600800000000000000
+      internalID: 477344597234908076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 10
+        width: 592
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b51270f8aae6b340800000000000000
+      internalID: 4879345257611924919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_61
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 9
+        width: 592
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166c26a35b7fa7860800000000000000
+      internalID: 7528602084843898465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_62
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 8
+        width: 584
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91c700a2453b2220800000000000000
+      internalID: 2462120181557084570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_63
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 8
+        width: 577
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6eafc8fcf0a4b190800000000000000
+      internalID: -7947550434035519893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineExplosion3_64
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 8
+        width: 576
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d71798a22bf6ca00800000000000000
+      internalID: 776584112043923413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MineExplosion3_0: 7794768564363709240
+      MineExplosion3_1: -80779678059160779
+      MineExplosion3_10: 5606215387829552534
+      MineExplosion3_11: 6648963524826107146
+      MineExplosion3_12: -1046398203792422772
+      MineExplosion3_13: -5476898447548955067
+      MineExplosion3_14: 8657722239372606491
+      MineExplosion3_15: 6245192875204140129
+      MineExplosion3_16: 4205798565718523246
+      MineExplosion3_17: -7115113997383182397
+      MineExplosion3_18: 3139884568963093136
+      MineExplosion3_19: 7480837652191448029
+      MineExplosion3_2: -8802687179410794430
+      MineExplosion3_20: -831395941367160375
+      MineExplosion3_21: -4369540627697485120
+      MineExplosion3_22: 4959212366800077742
+      MineExplosion3_23: -1141266446913545359
+      MineExplosion3_24: 6827221789469748900
+      MineExplosion3_25: -5187747920540825657
+      MineExplosion3_26: -6117416887227422706
+      MineExplosion3_27: -7007508798159803570
+      MineExplosion3_28: -9114944792281949560
+      MineExplosion3_29: -6512108377531153043
+      MineExplosion3_3: 8255274376052352823
+      MineExplosion3_30: 4152309485756265632
+      MineExplosion3_31: -7655848170139687453
+      MineExplosion3_32: 5796283342906400036
+      MineExplosion3_33: 5855225274689270382
+      MineExplosion3_34: -7102891299217171357
+      MineExplosion3_35: 9159217432786938597
+      MineExplosion3_36: -7343213897516559786
+      MineExplosion3_37: 666600415931767778
+      MineExplosion3_38: 2387041234401258040
+      MineExplosion3_39: -1704121051636821848
+      MineExplosion3_4: 7255074319818705434
+      MineExplosion3_40: 1390339791881839851
+      MineExplosion3_41: 2290226266752050179
+      MineExplosion3_42: -2776131403178865883
+      MineExplosion3_43: -8736203282641678867
+      MineExplosion3_44: -945285667203916866
+      MineExplosion3_45: 8156419946626682527
+      MineExplosion3_46: 6504311917134462688
+      MineExplosion3_47: 9117667985822924373
+      MineExplosion3_48: -8828884514959589302
+      MineExplosion3_49: 8328917902581675848
+      MineExplosion3_5: 5628625344725579436
+      MineExplosion3_50: -7246458150479274316
+      MineExplosion3_51: -6148451317585651794
+      MineExplosion3_52: -6300931778496154584
+      MineExplosion3_53: 5432079803857033405
+      MineExplosion3_54: 9197449077125856556
+      MineExplosion3_55: -7535664856036254836
+      MineExplosion3_56: 858060828601183542
+      MineExplosion3_57: 6473333195415794620
+      MineExplosion3_58: -8732992361892134108
+      MineExplosion3_59: 477344597234908076
+      MineExplosion3_6: 5077979570144006524
+      MineExplosion3_60: 4879345257611924919
+      MineExplosion3_61: 7528602084843898465
+      MineExplosion3_62: 2462120181557084570
+      MineExplosion3_63: -7947550434035519893
+      MineExplosion3_64: 776584112043923413
+      MineExplosion3_7: -7403045199218553496
+      MineExplosion3_8: 4578594131949860975
+      MineExplosion3_9: -3568686469562935306
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
